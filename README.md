@@ -179,7 +179,7 @@ supernova-journal/
 
 ---
 
-## 🏆 Built for the Backblaze × GenBlaze Hackathon 2026
+## 🏆 Built for the Ai Hackathon 2026
 
 This engineering journal accompanies the Supernova platform and documents the complete development journey from concept to production. It showcases:
 
